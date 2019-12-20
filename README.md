@@ -3,9 +3,9 @@ Test your ft_printf
 
 Run:
 
-gcc m_pr.c libftprintf.a
+    gcc m_pr.c libftprintf.a
 
-./a.out
+    ./a.out
 
 See if you have any wrong returns by executing the 1st command.
 
